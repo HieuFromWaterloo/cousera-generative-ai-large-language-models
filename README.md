@@ -13,3 +13,7 @@ The course is divided into three comprehensive modules:
 
 ## Acknowledgments
 The course note is completely based on the course [Generative AI with Large Language Models (LLMs)](https://www.coursera.org/learn/generative-ai-with-llms?) by DeepLearning.AI. The content reflects the key learning points and modules as outlined in the course at the time of its launch. It is intended to serve as a concise reference of the course to easily review later on.
+
+## What's Next?
+
+After taking this course, you can check out other free and extremely useful short courses offered DeepLearning.ai [here](https://www.deeplearning.ai/short-courses/)
