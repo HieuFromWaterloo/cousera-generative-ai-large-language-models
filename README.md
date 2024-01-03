@@ -16,4 +16,4 @@ The course note is completely based on the course [Generative AI with Large Lang
 
 ## What's Next?
 
-After taking this course, you can check out other free and extremely useful short courses offered DeepLearning.ai [here](https://www.deeplearning.ai/short-courses/)
+After taking this course, you can check out other free and extremely useful short courses offered by DeepLearning.ai [here](https://www.deeplearning.ai/short-courses/)
